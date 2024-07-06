@@ -1,6 +1,5 @@
 # OTP-Verification-System
 ![Screenshot 2024-07-06 095305](https://github.com/Vaibhav-Xo/OTP-Verification-System/assets/172389348/a828ca3a-a8aa-499b-bebd-7e20ba9b5172)
-### Note: For details check out the .pptx and .ipynb files
 
 # Project Objective:
 Create a system that takes user input in the form of email and sends the user a one time password for verification, providing a simple yet
